@@ -15,11 +15,11 @@ The dataset was obtained from Kaggle: [Heart Attack Analysis and Prediction Data
 ```  
 Heart_Attack_Analysis/  
 │  
-├── Heart_Attack_Analysis.ipynb   # Main notebook for data analysis & ML models  
-├── Resources/                    # Data files and supporting materials  
+├── Analysis.ipynb   			# Main notebook for data analysis & ML models
+├── Neural Network Model.ipynb   	# Notebook for Neural Network model  
+├── Resources/                     # Data files and supporting materials  
 │   ├── heart_attack_data.csv  
-├── README.md                     # Project documentation  
-└── Output/                        # Optional: Saved models, figures, or reports  
+└── README.md                      # Project documentation   
 ```  
 
 ---
