@@ -1,4 +1,4 @@
-# Heart Attack Diagnosis using Machine Learning  
+# Predicting Heart Attack Risk using Machine Learning  
 
 ## Overview  
 
